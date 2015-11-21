@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://burningtree.github.io
+title: Jan Stránský
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
